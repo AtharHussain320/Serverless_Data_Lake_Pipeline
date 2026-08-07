@@ -3,7 +3,7 @@
 This project demonstrates a serverless data lake architecture using various AWS services. The architecture is designed to ingest, process, and analyze CSV files stored in an Amazon S3 bucket. AWS Lambda functions, Glue Crawlers, Glue Jobs, CloudWatch Rules, and SNS topics are orchestrated to automate data processing and send notifications upon completion.
 
 ## Project Architecture
-![architecture-diagram](https://github.com/user-attachments/assets/999cd237-5b7f-4adc-a81e-6d8634f5a5df)
+![architecture-diagram]()
 
 ### Workflow
 
